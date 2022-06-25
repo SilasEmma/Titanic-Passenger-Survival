@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Chinonso/Project/Titanic%20Competition/mlruns/1/67b70e9f0ef146ce89cf1ee819783013/artifacts
+end_time: 1656193880374
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 67b70e9f0ef146ce89cf1ee819783013
+run_uuid: 67b70e9f0ef146ce89cf1ee819783013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656193837447
+status: 3
+tags: []
+user_id: Chinonso

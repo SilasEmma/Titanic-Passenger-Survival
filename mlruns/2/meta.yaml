@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Chinonso/Project/Titanic%20Competition/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: Decision Tree Classifier.
