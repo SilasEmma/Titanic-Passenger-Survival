@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Chinonso/Envs/TitanicFile/Titanic-Passenger-Survival/mlruns/2/46ab45942c354548865a458d76f8b53e/artifacts
+end_time: 1656361972720
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 46ab45942c354548865a458d76f8b53e
+run_uuid: 46ab45942c354548865a458d76f8b53e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656361971782
+status: 4
+tags: []
+user_id: Chinonso
